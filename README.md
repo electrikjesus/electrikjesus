@@ -1,5 +1,5 @@
 # What is Jon all about?
-[![electrikjesus github stats](https://github-readme-stats.vercel.app/api?username=electrikjesus&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/electrikjesus)
+[![electrikjesus github stats](https://github-readme-stats.vercel.app/api?username=electrikjesus&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/electrikjesus)
 
 ## Life Goals
 - 📱 I work to bring the dreams of those around me to reality. CTO of BlissLabs, Creator of Bliss OS, Android-Generic Project and contributor to even more.
