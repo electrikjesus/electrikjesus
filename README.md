@@ -2,8 +2,8 @@
 [![electrikjesus github stats](https://github-readme-stats.vercel.app/api?username=electrikjesus&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&theme=tokyonight)](https://github.com/electrikjesus)
 
 ## Life Goals
-- 📱 I work to bring the dreams of those around me to reality. CTO of BlissLabs, Creator of Bliss OS, Android-Generic Project and contributor to even more.
-- 💻 Currently working on Bliss OS, Android-Generic Project, Android-x86 and Waydroid
+- 📱 I work to bring the dreams of those around me to reality. Incorporator and CTO of BlissLabs, Founder of Bliss Co-Labs, Bliss OS, Android-Generic Project and contributor to even more.
+- 💻 Currently working at [Bliss Co-Labs](https://blisscolabs.dev) on [Bliss OS](https://blissos.org), [Android-Generic Project](https://android-generic.github.io), [Android-x86](https://android-x86.org), [Waydroid](https://waydro.id) and [more](https://blisslabs.org)
 
 ## What I Work On
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrikjesus&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/electrikjesus)
