@@ -8,6 +8,8 @@
 ## What I Work On
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrikjesus&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/electrikjesus)
 
+[![Jon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=electrikjesus)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/electrikjesus))
+
 ## What I Can Do
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Android](https://www.vectorlogo.zone/logos/android/android-icon.svg)
