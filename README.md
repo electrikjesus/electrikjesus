@@ -3,7 +3,7 @@
 
 ## Life Goals
 - 📱 I work to bring the dreams of those around me to reality. Incorporator and CTO of BlissLabs, Founder of Bliss Co-Labs, Bliss OS, Android-Generic Project and contributor to even more.
-- 💻 Currently working at [Bliss Co-Labs](https://blisscolabs.dev) on [Bliss OS](https://blissos.org), [Android-Generic Project](https://android-generic.github.io), [Android-x86](https://www.android-x86.org/), [Waydroid](https://waydro.id) and [more](https://blisslabs.org)
+- 💻 Currently working at [Navorpala Tech (Bliss Co-Labs)](https://navotpala.tech) on [Bass OS & Bass Toolkit](https://bliss-bass.blisscolabs.dev), and contributing to OSS projects like [Bliss OS](https://blissos.org), [Android-Generic Project](https://android-generic.github.io), [Android-x86](https://www.android-x86.org/), [Waydroid](https://waydro.id) and [more](https://blisslabs.org)
 
 ## What I Work On
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrikjesus&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/electrikjesus)
